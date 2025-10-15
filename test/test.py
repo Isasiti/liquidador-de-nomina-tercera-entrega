@@ -51,9 +51,6 @@ class TestLiquidadorNomina(unittest.TestCase):
     def test_error_salario_base_cero(self):
         with self.assertRaises(ErrorSalarioBase):
             LiquidadorNomina(0, 30, 0, 0)
-
-
-
 if __name__ == "__main__":
     unittest.main()
 
