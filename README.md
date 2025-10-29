@@ -5,7 +5,12 @@ David Garcia
 
 Tomas Sepulveda
 
-interfaz grafica hecha por : Isaac Daniel Mosquera
+interfaz grafica hecha por :
+
+ Isaac Daniel Mosquera
+
+
+Maria Fernanda Piedrahita
 # 💼 Liquidador de Nómina
 
 ## 📋 Descripción del Proyecto
